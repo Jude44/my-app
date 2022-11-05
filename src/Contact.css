@@ -4,8 +4,8 @@ td{padding-right: 8em;
 padding-top: 0em;}
 #head{border: 1em; 
 }
-input{box-sizing: border-box;
-
+input{box-sizing: border-box; 
+border: 1px solid black;
     /* Auto layout */
     
     display: flex;

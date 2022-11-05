@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  text-align:left; padding-left: 50px;
 }
 
 .App-logo {
@@ -27,7 +27,16 @@
 .App-link {
   color: #61dafb;
 }
+nav a{margin: 20px; padding: 0.5em;
+background-color: grey;
+color: white;
+ margin-top:2em;
+ text-decoration:none;
+ border-radius: 5em;
 
+}
+a:hover{color: rgb(111, 18, 18); 
+background-color: cadetblue;}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -36,3 +45,7 @@
     transform: rotate(360deg);
   }
 }
+#contact{background-color: rgb(16, 16, 147);}
+#contact:hover{background-color: blanchedalmond;
+color:black;
+text-decoration: underline;}
